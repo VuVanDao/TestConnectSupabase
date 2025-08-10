@@ -1,0 +1,6 @@
+@TestConnectSupabase_HostAddress = http://localhost:5261
+
+GET {{TestConnectSupabase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
